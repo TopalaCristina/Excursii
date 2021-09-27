@@ -1,6 +1,6 @@
 
 #bg1 {
-  background-image: url(img/ame.png);
+  background-image: url(ame.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -10,7 +10,7 @@
 }
 
 #bg2 {
-	  background-image: url(img/ofertbg.jpeg);
+	  background-image: url(ofertbg.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -19,7 +19,7 @@
 }
 
 #bg3 {
-	  background-image: url(img/mold.jpg);
+	  background-image: url(mold.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -28,7 +28,7 @@
 }
 
 #bg4 {
-	  background-image: url(img/sky.jpg);
+	  background-image: url(sky.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
